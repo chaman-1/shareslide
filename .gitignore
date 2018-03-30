@@ -1,3 +1,8 @@
+/index.php
+/demo.html
+public/downloads/*
+!public/downloads/.gitkeep
+
 # Logs
 logs
 *.log
